@@ -14,4 +14,4 @@
 10. 유저가 이미 입력한 값을 또 입력할 시에 "이미 입력한 값 입니다." 경고메시지가 뜬다
 
 <도메인 주소>
-guess-number-game932.netlify.app
+[guess-number-game932.netlify.app](https://guess-number-game932.netlify.app/)
